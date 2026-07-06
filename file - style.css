@@ -1,0 +1,55 @@
+/* General Styles */
+body{
+    font-family :Arial, sans-serif
+    line-height :1.6;
+    margin :0;
+    padding :0;
+    background-color :#f9f9f9;
+    color :#333
+}
+
+
+/* Header Styles */
+header{
+    text-align :center;
+    padding : 2rem;
+    background-color :#333;
+    color :white;
+}
+
+header h1{
+    font-size :2.5rem;
+}
+header p{
+    font-size :1.2rem;
+    margin-top :0.5rem;
+}
+
+/* Section Styles */
+main{
+    padding :2rem;
+}
+section{
+    margin-bottom :2rem;
+}
+section h2{
+    font-size :2rem;
+    color#007BFF
+    margin-bottom :1rem;
+}
+/* Links */
+a {
+    color :#007BFF;
+    text-decoration : none;
+}
+a:hover {
+    text-decoration :underline;
+}
+/* Footer Styles */
+text-align :center;
+padding  : 1rem;
+background-color  :#333;
+color  : white;
+
+}
+    
